@@ -1,0 +1,17 @@
+# Node modules (if applicable)
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+*.env
+
+# macOS files
+.DS_Store
+
+# Vim swap files
+*.swp
+
+# Temporary files
+*.tmp
